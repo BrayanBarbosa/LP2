@@ -1,0 +1,10 @@
+C:\Users\Brayan\Desktop\LP2\Triangulo2.1\Triangulo2.1\obj\Debug\Triangulo2.1.csprojAssemblyReference.cache
+C:\Users\Brayan\Desktop\LP2\Triangulo2.1\Triangulo2.1\obj\Debug\Triangulo2._1.Form1.resources
+C:\Users\Brayan\Desktop\LP2\Triangulo2.1\Triangulo2.1\obj\Debug\Triangulo2._1.Properties.Resources.resources
+C:\Users\Brayan\Desktop\LP2\Triangulo2.1\Triangulo2.1\obj\Debug\Triangulo2.1.csproj.GenerateResource.cache
+C:\Users\Brayan\Desktop\LP2\Triangulo2.1\Triangulo2.1\obj\Debug\Triangulo2.1.csproj.CoreCompileInputs.cache
+C:\Users\Brayan\Desktop\LP2\Triangulo2.1\Triangulo2.1\bin\Debug\Triangulo2.1.exe.config
+C:\Users\Brayan\Desktop\LP2\Triangulo2.1\Triangulo2.1\bin\Debug\Triangulo2.1.exe
+C:\Users\Brayan\Desktop\LP2\Triangulo2.1\Triangulo2.1\bin\Debug\Triangulo2.1.pdb
+C:\Users\Brayan\Desktop\LP2\Triangulo2.1\Triangulo2.1\obj\Debug\Triangulo2.1.exe
+C:\Users\Brayan\Desktop\LP2\Triangulo2.1\Triangulo2.1\obj\Debug\Triangulo2.1.pdb
