@@ -1,0 +1,10 @@
+C:\Users\Brayan\Desktop\LP2\Psalario\Psalario\bin\Debug\Psalario.exe.config
+C:\Users\Brayan\Desktop\LP2\Psalario\Psalario\bin\Debug\Psalario.exe
+C:\Users\Brayan\Desktop\LP2\Psalario\Psalario\bin\Debug\Psalario.pdb
+C:\Users\Brayan\Desktop\LP2\Psalario\Psalario\obj\Debug\Psalario.csprojAssemblyReference.cache
+C:\Users\Brayan\Desktop\LP2\Psalario\Psalario\obj\Debug\Psalario.Form1.resources
+C:\Users\Brayan\Desktop\LP2\Psalario\Psalario\obj\Debug\Psalario.Properties.Resources.resources
+C:\Users\Brayan\Desktop\LP2\Psalario\Psalario\obj\Debug\Psalario.csproj.GenerateResource.cache
+C:\Users\Brayan\Desktop\LP2\Psalario\Psalario\obj\Debug\Psalario.csproj.CoreCompileInputs.cache
+C:\Users\Brayan\Desktop\LP2\Psalario\Psalario\obj\Debug\Psalario.exe
+C:\Users\Brayan\Desktop\LP2\Psalario\Psalario\obj\Debug\Psalario.pdb
