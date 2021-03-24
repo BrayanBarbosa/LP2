@@ -1,0 +1,23 @@
+C:\Users\PICHAU\source\repos\PClasses\bin\Debug\PClasses.exe.config
+C:\Users\PICHAU\source\repos\PClasses\bin\Debug\PClasses.exe
+C:\Users\PICHAU\source\repos\PClasses\bin\Debug\PClasses.pdb
+C:\Users\PICHAU\source\repos\PClasses\obj\Debug\PClasses.csprojAssemblyReference.cache
+C:\Users\PICHAU\source\repos\PClasses\obj\Debug\PClasses.Form1.resources
+C:\Users\PICHAU\source\repos\PClasses\obj\Debug\PClasses.frmMensalista.resources
+C:\Users\PICHAU\source\repos\PClasses\obj\Debug\PClasses.Properties.Resources.resources
+C:\Users\PICHAU\source\repos\PClasses\obj\Debug\PClasses.csproj.GenerateResource.cache
+C:\Users\PICHAU\source\repos\PClasses\obj\Debug\PClasses.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\source\repos\PClasses\obj\Debug\PClasses.exe
+C:\Users\PICHAU\source\repos\PClasses\obj\Debug\PClasses.pdb
+C:\Users\PICHAU\Documents\MATERIAIS DAS FATEC\2sem\LP2\PClasses\bin\Debug\PClasses.exe.config
+C:\Users\PICHAU\Documents\MATERIAIS DAS FATEC\2sem\LP2\PClasses\bin\Debug\PClasses.exe
+C:\Users\PICHAU\Documents\MATERIAIS DAS FATEC\2sem\LP2\PClasses\bin\Debug\PClasses.pdb
+C:\Users\PICHAU\Documents\MATERIAIS DAS FATEC\2sem\LP2\PClasses\obj\Debug\PClasses.csprojAssemblyReference.cache
+C:\Users\PICHAU\Documents\MATERIAIS DAS FATEC\2sem\LP2\PClasses\obj\Debug\PClasses.Form1.resources
+C:\Users\PICHAU\Documents\MATERIAIS DAS FATEC\2sem\LP2\PClasses\obj\Debug\PClasses.frmHorista.resources
+C:\Users\PICHAU\Documents\MATERIAIS DAS FATEC\2sem\LP2\PClasses\obj\Debug\PClasses.frmMensalista.resources
+C:\Users\PICHAU\Documents\MATERIAIS DAS FATEC\2sem\LP2\PClasses\obj\Debug\PClasses.Properties.Resources.resources
+C:\Users\PICHAU\Documents\MATERIAIS DAS FATEC\2sem\LP2\PClasses\obj\Debug\PClasses.csproj.GenerateResource.cache
+C:\Users\PICHAU\Documents\MATERIAIS DAS FATEC\2sem\LP2\PClasses\obj\Debug\PClasses.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Documents\MATERIAIS DAS FATEC\2sem\LP2\PClasses\obj\Debug\PClasses.exe
+C:\Users\PICHAU\Documents\MATERIAIS DAS FATEC\2sem\LP2\PClasses\obj\Debug\PClasses.pdb
