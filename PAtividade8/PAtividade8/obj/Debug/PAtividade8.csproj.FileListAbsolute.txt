@@ -1,0 +1,34 @@
+C:\Users\PICHAU\Documents\MATERIAIS DAS FATEC\2sem\LP2\PAtividade8\bin\Debug\PAtividade8.exe.config
+C:\Users\PICHAU\Documents\MATERIAIS DAS FATEC\2sem\LP2\PAtividade8\bin\Debug\PAtividade8.exe
+C:\Users\PICHAU\Documents\MATERIAIS DAS FATEC\2sem\LP2\PAtividade8\bin\Debug\PAtividade8.pdb
+C:\Users\PICHAU\Documents\MATERIAIS DAS FATEC\2sem\LP2\PAtividade8\obj\Debug\PAtividade8.csprojAssemblyReference.cache
+C:\Users\PICHAU\Documents\MATERIAIS DAS FATEC\2sem\LP2\PAtividade8\obj\Debug\PAtividade8.Form1.resources
+C:\Users\PICHAU\Documents\MATERIAIS DAS FATEC\2sem\LP2\PAtividade8\obj\Debug\PAtividade8.Properties.Resources.resources
+C:\Users\PICHAU\Documents\MATERIAIS DAS FATEC\2sem\LP2\PAtividade8\obj\Debug\PAtividade8.csproj.GenerateResource.cache
+C:\Users\PICHAU\Documents\MATERIAIS DAS FATEC\2sem\LP2\PAtividade8\obj\Debug\PAtividade8.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Documents\MATERIAIS DAS FATEC\2sem\LP2\PAtividade8\obj\Debug\PAtividade8.exe
+C:\Users\PICHAU\Documents\MATERIAIS DAS FATEC\2sem\LP2\PAtividade8\obj\Debug\PAtividade8.pdb
+C:\Users\PICHAU\Documents\MATERIAIS DAS FATEC\2sem\LP2\PAtividade8\obj\Debug\PAtividade8.frmExercicio1.resources
+C:\Users\PICHAU\Documents\MATERIAIS DAS FATEC\2sem\LP2\PAtividade8\obj\Debug\PAtividade8.frmExercicio2.resources
+C:\Users\PICHAU\Documents\MATERIAIS DAS FATEC\2sem\LP2\PAtividade8\obj\Debug\PAtividade8.frmExercicio3.resources
+C:\Users\PICHAU\Documents\MATERIAIS DAS FATEC\2sem\LP2\PAtividade8\obj\Debug\PAtividade8.frmExercicio4.resources
+C:\Users\PICHAU\Documents\MATERIAIS DAS FATEC\2sem\LP2\PAtividade8\obj\Debug\PAtividade8.frmExercicio5.resources
+C:\Users\PICHAU\Documents\MATERIAIS DAS FATEC\2sem\LP2\PAtividade8\obj\Debug\PAtividade8.frmExercicio6.resources
+C:\Users\PICHAU\Documents\MATERIAIS DAS FATEC\2sem\LP2\PAtividade8\obj\Debug\PAtividade8.frmExercicio7.resources
+C:\Users\adolf\Downloads\LP2-master\LP2-master\Atividade 8\PAtividade8\bin\Debug\PAtividade8.exe.config
+C:\Users\adolf\Downloads\LP2-master\LP2-master\Atividade 8\PAtividade8\bin\Debug\PAtividade8.exe
+C:\Users\adolf\Downloads\LP2-master\LP2-master\Atividade 8\PAtividade8\bin\Debug\PAtividade8.pdb
+C:\Users\adolf\Downloads\LP2-master\LP2-master\Atividade 8\PAtividade8\obj\Debug\PAtividade8.csprojAssemblyReference.cache
+C:\Users\adolf\Downloads\LP2-master\LP2-master\Atividade 8\PAtividade8\obj\Debug\PAtividade8.Form1.resources
+C:\Users\adolf\Downloads\LP2-master\LP2-master\Atividade 8\PAtividade8\obj\Debug\PAtividade8.frmExercicio1.resources
+C:\Users\adolf\Downloads\LP2-master\LP2-master\Atividade 8\PAtividade8\obj\Debug\PAtividade8.frmExercicio2.resources
+C:\Users\adolf\Downloads\LP2-master\LP2-master\Atividade 8\PAtividade8\obj\Debug\PAtividade8.frmExercicio3.resources
+C:\Users\adolf\Downloads\LP2-master\LP2-master\Atividade 8\PAtividade8\obj\Debug\PAtividade8.frmExercicio4.resources
+C:\Users\adolf\Downloads\LP2-master\LP2-master\Atividade 8\PAtividade8\obj\Debug\PAtividade8.frmExercicio5.resources
+C:\Users\adolf\Downloads\LP2-master\LP2-master\Atividade 8\PAtividade8\obj\Debug\PAtividade8.frmExercicio6.resources
+C:\Users\adolf\Downloads\LP2-master\LP2-master\Atividade 8\PAtividade8\obj\Debug\PAtividade8.frmExercicio7.resources
+C:\Users\adolf\Downloads\LP2-master\LP2-master\Atividade 8\PAtividade8\obj\Debug\PAtividade8.Properties.Resources.resources
+C:\Users\adolf\Downloads\LP2-master\LP2-master\Atividade 8\PAtividade8\obj\Debug\PAtividade8.csproj.GenerateResource.cache
+C:\Users\adolf\Downloads\LP2-master\LP2-master\Atividade 8\PAtividade8\obj\Debug\PAtividade8.csproj.CoreCompileInputs.cache
+C:\Users\adolf\Downloads\LP2-master\LP2-master\Atividade 8\PAtividade8\obj\Debug\PAtividade8.exe
+C:\Users\adolf\Downloads\LP2-master\LP2-master\Atividade 8\PAtividade8\obj\Debug\PAtividade8.pdb
